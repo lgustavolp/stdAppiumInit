@@ -17,7 +17,7 @@ Sample Project Study for starting a new APK project using Appium with Appium Ins
 
 ## Installation
 
-Run `npm install` (or `npm i` for the short version) to install the dev dependencies.
+Run `npm init` (or `npm i` for the short version) to install the dev dependencies.
 
 Then run:
 ```

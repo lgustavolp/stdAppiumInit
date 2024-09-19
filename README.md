@@ -1,12 +1,13 @@
 # Study Appium Init
 
-Sample Project Study for starting a new APK project using Appium
+Sample Project Study for starting a new APK project using Appium with Appium Inspector
 
 ## Pre-requirements
 
 * It is required to have Node.js and npm installed to run this project.
 * It is required to have robot framework installed to run this project.
 * It is required to have UIAutomator2 installed to run this project.
+* It is required to have Appium Inspector installed to run this project.
 
 * Install [Appium Inspector](https://github.com/appium/appium-inspector) and create the variables below:
   * platformName 	TEXT	Android
